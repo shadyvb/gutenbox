@@ -1,0 +1,15 @@
+/**
+ * This is for block styles that should only appear in the editor
+ */ 
+
+ @import "common.scss";
+  
+ .wp-block-block-kit-block {
+   background: $green;
+   border: 0.2rem solid $black;
+   color: $black;
+   margin: 0 auto;
+   max-width: 740px;
+   padding: 2rem;
+ }
+ 

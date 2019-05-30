@@ -1,0 +1,13 @@
+/**
+ * Put published block styles here
+ */
+@import "common.scss";
+
+.wp-block-block-kit-block {
+  background: $red;
+  border: 0.2rem solid $black;
+  color: $black;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 2rem;
+}

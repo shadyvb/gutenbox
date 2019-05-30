@@ -1,2 +1,0 @@
-# gutenbox
-Created with CodeSandbox
